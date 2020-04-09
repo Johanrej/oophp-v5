@@ -1,27 +1,27 @@
 ---
 title: "Min fina titel"
 ---
+
 Min me-sida i kursen oophp
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src="image/skaggjohan.jpg?w=100%&area=31,33,56,0" class="right" caption="Storebror ser dig."]
 
-[FIGURE src="image/me.jpg?w=400&a=4,27,11,0&cf&sharpen" class="right" caption="Bild på mig, ätandes glass och hållandes ett kort på någon jultillställning."]
+<!-- <figure class="figure">
+    <a href="image/skaggjohan.jpg?w=500">
+        <img src="image/skaggjohan.jpg?w=100%&area=31,33,56,0" alt="Johan" />
+    </a>
+    <figcaption style="font-size: 11px; text-align: right">
+        <p>Storebror ser dig.</p>
+    </figcaption>
+</figure>   -->
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv.
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+Jag heter Johan Rejhed och bor sedan december 2018 i Karlskrona. Jag har fru och fyra barn så jag har inga problem att fylla min fritid.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+I nästan hela mitt liv har jag bott i Stockholms län. Efter att jag föddes flyttade jag till ett litet samhälle som heter Sorunda, där jag bodde tills jag var 14 år. Efter det gick flytten till Huddinge och så småningom påbörjades gymnasiestudier på det naturvetenskapliga programmet.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
+2018 flyttade jag och familjen till Karlskrona eftersom min fru fick ett arbete i Blekinge och dessutom är ifrån stan. Av en händelse testade jag en kort Udemy-kurs (bara klar med knappt hälften), i javascript, vilket jag tyckte var kul. Därför bestämde jag mig för att testa att hoppa på BTHs Webbprogrammeringsutbildning. Vi får se om jag blivit för gammal eller om jag lyckas hänga med i tempot. :)
 
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching, sedan turfing och nu på sistone verkar släktforskning lite spännande. Annars kan jag alltid koda på något av mina opensource-projekt, det finns och blir över.
-
-Vill du läsa mer om vad jag jobbat med så kan du kika på min [Linkedin-profil](https://www.linkedin.com/in/pt90mr/).
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+/Johan
